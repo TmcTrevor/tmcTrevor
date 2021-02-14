@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [my profile in tryhackme](https://tryhackme.com/p/TreVor)
-![alt text](https://tryhackme-badges.s3.amazonaws.com/TreVor.png "Logo Title Text 1")
+![alt text](https://i.imgur.com/UUSoVJU.png "Logo Title Text 1")
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=mokhames)](https://github.com/TmcTrevor)
