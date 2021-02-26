@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![alt text](https://i.imgur.com/UUSoVJU.png "Logo Title Text 1")
 
 
-[![42 Profile Card](https://badge42.herokuapp.com/api/stats/mokhames)
+[![42 Profile Card] <img src = "https://badge42.herokuapp.com/api/stats/mokhames" >
 
 
    [![github stats](https://github-readme-stats.vercel.app/api?username=tmctrevor&count_private=true&show_icons=true&theme=dark)](https://github.com/tmctrevor/github-readme-stats)
