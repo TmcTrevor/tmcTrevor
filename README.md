@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 | Exam_Rank_02 | 100 | Exam |
 | ft_server | 100 | Docker |
 | Cub3D | 100 | Raycasting - C project |
-| Exam_Rank_03 | ... | Exam |
+| Exam_Rank_03 | 100 | Exam |
 | libasm | 100 | Assambler |
-| ft_services | ... | Kubernetes |
-| Minishell | .. | C project |
+| Inception | ... | Docker orchestration |
+| Minishell | 100 | C project |
 | Exam_Rank_04 | ... | Exam |
-| Philosophers |... | C project |
-| Piscine C++ | ... | C++ |
+| Philosophers | 100 | C project |
+| Piscine C++ | loading | C++ |
 | Exam_Rank_05 | ...  | Exam |
 |......        | ... |  ... |
 
