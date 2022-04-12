@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=mokhames)](https://github.com/TmcTrevor)-->
-<img src = "https://badge42.herokuapp.com/api/stats/mokhames" >
+<img src = "https://badge42.vercel.app/api/v2/cl1vjlxv9002509l42eb66jvf/stats?cursusId=21&coalitionId=79" >
 
    [![github stats](https://github-readme-stats.vercel.app/api?username=tmctrevor&count_private=true&show_icons=true&theme=dark)](https://github.com/tmctrevor/github-readme-stats)
    
